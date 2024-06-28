@@ -1,3 +1,17 @@
+# Testing Guidance
+
+# Objective
+This project is based on ToDo-list. Which helps the user to Memorize its daily or weekly tasks easily.
+
+# Features Added 
+1.Task Addition: Try adding a task and ensure it appears in the list.
+2.Task Removal: Remove a task and ensure it disappears from the list.
+3.Completion Marking: Click on a task to mark it as completed. It should visually change to indicate completion.
+4.Input Validation: Try adding an empty task to see the validation in action.
+5.Sorting: Change the sort order and verify tasks are sorted alphabetically.
+6.Filtering: Use the filter dropdown to display all, completed, or incomplete tasks.
+7.LocalStorage: Refresh the page and ensure tasks persist.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
